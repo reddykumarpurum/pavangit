@@ -1,2 +1,2 @@
 # pavangit
-pavangit repo
+pavangit repo for git commands demonstration
